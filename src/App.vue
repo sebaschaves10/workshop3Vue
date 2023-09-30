@@ -8,21 +8,24 @@
       <div id="nav-collapse" class="order-4 order-md-1 navbar-collapse collapse" style="display:none;">
         <ul class="navbar-nav ml-md-auto align-items-md-center" style="text-align: right;">
           <div class="d-md-flex pl-3 p-md-none">
-            <li class="nav-item mr-md-2 text-truncate"><a href="" aria-current="page" class="nav-link active">
+            <li class="nav-item mr-md-2 text-truncate">
+              <a href="" aria-current="page" class="nav-link active">
                 Empleos
               </a>
             </li>
-            <li class="nav-item mr-md-2 text-truncate"><a href="" class="nav-link">
+            <li class="nav-item mr-md-2 text-truncate">
+              <a href="" class="nav-link">
                 Bootcamp
               </a>
             </li>
-            <li class="nav-item mr-md-2 text-truncate"><a href="" class="nav-link">
+            <li class="nav-item mr-md-2 text-truncate">
+              <a href="" class="nav-link">
                 Sobre nosotros
               </a>
             </li>
-            <li class="nav-item b-nav-dropdown dropdown mr-md-2 main-nav-dropdown"><a role="button" aria-haspopup="true"
-                aria-expanded="false" href="#" class="nav-link dropdown-toggle"><span>Para
-                  profesionales</span>
+            <li class="nav-item b-nav-dropdown dropdown mr-md-2 main-nav-dropdown">
+              <a role="button" aria-haspopup="true" aria-expanded="false" href="#" class="nav-link dropdown-toggle">
+                <span>Para profesionales</span>
               </a>
               <ul tabindex="-1" class="dropdown-menu p-2 dropdown-menu-right">
                 <li class="mb-1">
